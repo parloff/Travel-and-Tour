@@ -1,5 +1,5 @@
 import React from "react";
-import FooterLogo from "../../assets/logo.png";
+
 import {
   FaFacebook,
   FaInstagram,
@@ -45,7 +45,7 @@ const Footer = () => {
           <div className="grid md:grid-cols-3 py-5 bg-white/80 backdrop-blur-sm rounded-t-xl">
             <div className="py-8 px-4">
               <h1 className="flex items-center gap-3 text-xl sm:text-3xl font-bold text-justify sm:text-left">
-                <img src={FooterLogo} alt="" className="max-h-[60px]" />
+              <h1 className="text-blue-500 padding-bottom-15px">Parloff Travels</h1>
                 {/* TravelloGo */}
               </h1>
               <p className="text-sm">
@@ -142,7 +142,7 @@ const Footer = () => {
           </div>
           <div>
             <div className="text-center py-5 border-t-2 border-gray-300/50 bg-primary text-white">
-              @copyright 2024 All rights reserved || Parloff 2024
+              @copyright 2024 All rights reserved || Parloff❤
             </div>
           </div>
         </div>
