@@ -13,7 +13,7 @@ const PlacesData = [
     title: "Takwabay Boat",
     location: "Lekki, Lagos, Nigeria",
     description: "lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    price: 6700,
+    price: '100,000.00',
     type: "Boat Cruise",
   },
   {
@@ -22,7 +22,7 @@ const PlacesData = [
     location: "Banana Island, Lagos, Nigeria",
     description:
       "lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    price: 6700,
+    price: '50,000.00',
     type: "Cultural Relax",
   },
   {
@@ -31,7 +31,7 @@ const PlacesData = [
     location: "Ikorodu, Lagos, Nigeria",
     description:
       "lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    price: 6200,
+    price: '12,000.00',
     type: "Cultural Relax",
   },
   {
@@ -39,7 +39,7 @@ const PlacesData = [
     title: "Abeokuta Market",
     location: "Abeokuta, Ogun-state, Nigeria",
     description: "lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    price: 6700,
+    price: '67,999.00',
     type: "Market Place",
   },
   {
@@ -48,7 +48,7 @@ const PlacesData = [
     location: "Gwarinpa, Abuja, Nigeria",
     description:
       "lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    price: 6700,
+    price: '6,700.00',
     type: "Cultural Relax",
   },
   {
@@ -57,7 +57,7 @@ const PlacesData = [
     location: "Oniru-beach, Lagos, Nigeria",
     description:
       "lorem ipsum dolor sit amet consectetur adipisicing elit.",
-    price: 6200,
+    price: '60,000.00',
     type: "Cultural Relax",
   },
 ];
